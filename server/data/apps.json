@@ -1,7 +1,7 @@
 [
   {
       "appName": "JumpLink",
-      "appType": "app",
+      "appType": "directory",
       "appUrl": "https://jump.link",
       "appIconUrl": "jumplink.png",
       "platforms": ["Web"],
